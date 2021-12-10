@@ -1,0 +1,451 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`App Component renders without crashing 1`] = `
+<section
+  className="groceryApp"
+>
+  <div
+    className="listInputs"
+  >
+    <button
+      className="addItemButton"
+      onClick={[Function]}
+    >
+      Add Random Item
+    </button>
+  </div>
+  <div
+    className="types"
+  >
+    <div
+      className="listSelection"
+    >
+      Roasted Turkey
+    </div>
+    <div
+      className="listTable"
+    >
+      <thead>
+        <tr>
+          <th>
+            Item
+          </th>
+          <th>
+            Category
+          </th>
+          <th>
+            Delivery
+          </th>
+          <th />
+        </tr>
+      </thead>
+      <tbody>
+        <tr>
+          <td
+            onClick={[Function]}
+          >
+            Roasted Turkey
+          </td>
+          <td>
+            Deli
+          </td>
+          <td>
+            Ground
+          </td>
+          <td>
+            <button
+              onClick={[Function]}
+            >
+              remove
+            </button>
+          </td>
+        </tr>
+      </tbody>
+    </div>
+  </div>
+</section>
+`;
+
+exports[`ListContainer component renders without crashing 1`] = `
+<section
+  className="groceryApp"
+>
+  <div
+    className="listInputs"
+  >
+    <button
+      className="addItemButton"
+      onClick={[Function]}
+    >
+      Add Random Item
+    </button>
+  </div>
+  <div
+    className="types"
+  >
+    <div
+      className="listSelection"
+    >
+      Roasted Turkey
+    </div>
+    <div
+      className="listTable"
+    >
+      <thead>
+        <tr>
+          <th>
+            Item
+          </th>
+          <th>
+            Category
+          </th>
+          <th>
+            Delivery
+          </th>
+          <th />
+        </tr>
+      </thead>
+      <tbody>
+        <tr>
+          <td
+            onClick={[Function]}
+          >
+            Roasted Turkey
+          </td>
+          <td>
+            Deli
+          </td>
+          <td>
+            Ground
+          </td>
+          <td>
+            <button
+              onClick={[Function]}
+            >
+              remove
+            </button>
+          </td>
+        </tr>
+      </tbody>
+    </div>
+  </div>
+</section>
+`;
+
+exports[`ListSelection component renders without crashing 1`] = `
+<section
+  className="groceryApp"
+>
+  <div
+    className="listInputs"
+  >
+    <button
+      className="addItemButton"
+      onClick={[Function]}
+    >
+      Add Random Item
+    </button>
+  </div>
+  <div
+    className="types"
+  >
+    <div
+      className="listSelection"
+    >
+      Roasted Turkey
+    </div>
+    <div
+      className="listTable"
+    >
+      <thead>
+        <tr>
+          <th>
+            Item
+          </th>
+          <th>
+            Category
+          </th>
+          <th>
+            Delivery
+          </th>
+          <th />
+        </tr>
+      </thead>
+      <tbody>
+        <tr>
+          <td
+            onClick={[Function]}
+          >
+            Roasted Turkey
+          </td>
+          <td>
+            Deli
+          </td>
+          <td>
+            Ground
+          </td>
+          <td>
+            <button
+              onClick={[Function]}
+            >
+              remove
+            </button>
+          </td>
+        </tr>
+      </tbody>
+    </div>
+  </div>
+</section>
+`;
+
+exports[`renders ListContainer without crashing 1`] = `
+<section
+  className="groceryApp"
+>
+  <div
+    className="listInputs"
+  >
+    <button
+      className="addItemButton"
+      onClick={[Function]}
+    >
+      Add Random Item
+    </button>
+  </div>
+  <div
+    className="types"
+  >
+    <div
+      className="listSelection"
+    >
+      Roasted Turkey
+    </div>
+    <div
+      className="listTable"
+    >
+      <thead>
+        <tr>
+          <th>
+            Item
+          </th>
+          <th>
+            Category
+          </th>
+          <th>
+            Delivery
+          </th>
+          <th />
+        </tr>
+      </thead>
+      <tbody>
+        <tr>
+          <td
+            onClick={[Function]}
+          >
+            Bananas
+          </td>
+          <td>
+            Fruit
+          </td>
+          <td>
+            Air
+          </td>
+          <td>
+            <button
+              onClick={[Function]}
+            >
+              remove
+            </button>
+          </td>
+        </tr>
+        <tr>
+          <td
+            onClick={[Function]}
+          >
+            Whole Grain Bread
+          </td>
+          <td>
+            Grains
+          </td>
+          <td>
+            Air
+          </td>
+          <td>
+            <button
+              onClick={[Function]}
+            >
+              remove
+            </button>
+          </td>
+        </tr>
+        <tr>
+          <td
+            onClick={[Function]}
+          >
+            Lettuce
+          </td>
+          <td>
+            Vegetable
+          </td>
+          <td>
+            Ground
+          </td>
+          <td>
+            <button
+              onClick={[Function]}
+            >
+              remove
+            </button>
+          </td>
+        </tr>
+        <tr>
+          <td
+            onClick={[Function]}
+          >
+            Roasted Turkey
+          </td>
+          <td>
+            Deli
+          </td>
+          <td>
+            Ground
+          </td>
+          <td>
+            <button
+              onClick={[Function]}
+            >
+              remove
+            </button>
+          </td>
+        </tr>
+      </tbody>
+    </div>
+  </div>
+</section>
+`;
+
+exports[`renders without crashing 1`] = `
+<section
+  className="groceryApp"
+>
+  <div
+    className="listInputs"
+  >
+    <button
+      className="addItemButton"
+      onClick={[Function]}
+    >
+      Add Random Item
+    </button>
+  </div>
+  <div
+    className="types"
+  >
+    <div
+      className="listSelection"
+    >
+      Roasted Turkey
+    </div>
+    <div
+      className="listTable"
+    >
+      <thead>
+        <tr>
+          <th>
+            Item
+          </th>
+          <th>
+            Category
+          </th>
+          <th>
+            Delivery
+          </th>
+          <th />
+        </tr>
+      </thead>
+      <tbody>
+        <tr>
+          <td
+            onClick={[Function]}
+          >
+            Bananas
+          </td>
+          <td>
+            Fruit
+          </td>
+          <td>
+            Air
+          </td>
+          <td>
+            <button
+              onClick={[Function]}
+            >
+              remove
+            </button>
+          </td>
+        </tr>
+        <tr>
+          <td
+            onClick={[Function]}
+          >
+            Whole Grain Bread
+          </td>
+          <td>
+            Grains
+          </td>
+          <td>
+            Air
+          </td>
+          <td>
+            <button
+              onClick={[Function]}
+            >
+              remove
+            </button>
+          </td>
+        </tr>
+        <tr>
+          <td
+            onClick={[Function]}
+          >
+            Lettuce
+          </td>
+          <td>
+            Vegetable
+          </td>
+          <td>
+            Ground
+          </td>
+          <td>
+            <button
+              onClick={[Function]}
+            >
+              remove
+            </button>
+          </td>
+        </tr>
+        <tr>
+          <td
+            onClick={[Function]}
+          >
+            Roasted Turkey
+          </td>
+          <td>
+            Deli
+          </td>
+          <td>
+            Ground
+          </td>
+          <td>
+            <button
+              onClick={[Function]}
+            >
+              remove
+            </button>
+          </td>
+        </tr>
+      </tbody>
+    </div>
+  </div>
+</section>
+`;

@@ -1,0 +1,75 @@
+.App {
+  text-align: center;
+  width: 100%;
+  height: 100%;
+}
+
+.App-logo {
+  height: 80px;
+}
+
+@media (prefers-reduced-motion: no-preference) {
+  .App-logo {
+    animation: App-logo-spin infinite 20s linear;
+  }
+}
+
+.App-header {
+  background-color: #222;
+  height: 150px;
+  padding: 20px;
+  color: white;
+}
+
+.App-title {
+  font-size: 1.5em;
+}
+
+.App-intro {
+  font-size: large;
+}
+
+@keyframes App-logo-spin {
+  from { transform: rotate(0deg); }
+  to { transform: rotate(360deg); }
+}
+
+.groceryApp{
+  display: flex;
+  flex-direction: column;
+  width: 100%;
+}
+
+.types{
+  display: flex;
+  flex-direction: row;
+  width: 100%;
+}
+
+.listSelection {
+  width: 30%;
+  padding: 20px;
+  text-align: left;
+}
+
+.listTable{
+  flex: 1;
+  padding: 20px;
+  text-align: left;
+}
+
+.darkMode {
+  background: black;
+  color: limegreen;
+}
+.darkButton {
+  background: rgb(3, 3, 228);
+  color: rgb(210, 210, 243);
+  border: 1px solid black;
+  border-radius: 5px;
+}
+
+.addItemButton{
+  padding: 20px;
+  border-radius: 1px solid #d1d1d1;
+}
